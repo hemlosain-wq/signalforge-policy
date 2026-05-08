@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About App - SignalForge: Trading Signals</title>
+
+<style>
+
+body{
+    margin:0;
+    padding:0;
+    background:#f5f9ff;
+    color:#1f2937;
+    font-family:Arial, sans-serif;
+    line-height:1.8;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    padding:20px;
+}
+
+.card{
+    background:#ffffff;
+    border-radius:20px;
+    padding:30px;
+    margin-top:20px;
+    border:1px solid #dbeafe;
+    box-shadow:0 4px 15px rgba(0,0,0,0.06);
+}
+
+h1{
+    color:#2563eb;
+    text-align:center;
+    margin-bottom:10px;
+    font-size:42px;
+}
+
+h2{
+    color:#2563eb;
+    margin-top:30px;
+}
+
+p{
+    color:#374151;
+    font-size:17px;
+}
+
+ul{
+    color:#374151;
+    padding-left:20px;
+    font-size:17px;
+}
+
+li{
+    margin-bottom:10px;
+}
+
+.footer{
+    text-align:center;
+    color:#6b7280;
+    margin-top:30px;
+    font-size:14px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="card">
+
+<h1>About App</h1>
+
+<p><strong>App Name:</strong> SignalForge: Trading Signals</p>
+
+<p><strong>Version:</strong> 1.0</p>
+
+<p>
+SignalForge: Trading Signals is a modern trading signal application designed to provide educational market insights, crypto alerts, forex updates, and trading notifications in a clean and user-friendly experience.
+</p>
+
+<h2>Features</h2>
+
+<ul>
+<li>Live Buy/Sell trading signals</li>
+<li>Crypto market alerts</li>
+<li>Forex signal updates</li>
+<li>Real-time notifications</li>
+<li>Simple and modern interface</li>
+<li>Fast and lightweight performance</li>
+</ul>
+
+<h2>Purpose of the App</h2>
+
+<p>
+The purpose of SignalForge: Trading Signals is to help users stay informed about market movements and trading opportunities for educational and informational purposes only.
+</p>
+
+<h2>Important Notice</h2>
+
+<p>
+SignalForge: Trading Signals does not provide financial or investment advice.
+</p>
+
+<p>
+Trading cryptocurrencies, forex, and financial markets involves risk. Users are responsible for their own trading decisions and financial activities.
+</p>
+
+<h2>Technology Used</h2>
+
+<ul>
+<li>Firebase Services</li>
+<li>Google AdMob</li>
+<li>Push Notifications</li>
+<li>Modern Mobile UI</li>
+</ul>
+
+<h2>Developer</h2>
+
+<p>
+Developed and maintained by the SignalForge Development Team.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+For support, questions, or feedback:
+</p>
+
+<p>
+<strong>Email:</strong> angrozdeveloper@gmail.com
+</p>
+
+</div>
+
+<div class="footer">
+© 2026 SignalForge: Trading Signals — All Rights Reserved
+</div>
+
+</div>
+
+</body>
+</html>
